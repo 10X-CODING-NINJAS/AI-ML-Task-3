@@ -84,9 +84,3 @@ It shows how automatic stopword selection (using TF-IDF) improves domain adaptat
 
 ---
 
-## 🤝 Acknowledgments
-
-- **10X Coding Ninjas Student Chapter SRM**
-- **IMDb Dataset** provided on Kaggle.
-
----
