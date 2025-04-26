@@ -1,13 +1,13 @@
-##Task: Compare text preprocessing methods (Stemming vs Lemmatization) on IMDb 50K Movie Reviews.
+!!Task: Compare text preprocessing methods (Stemming vs Lemmatization) on IMDb 50K Movie Reviews.
 
-Steps:
-Text cleaning (lowercasing, punctuation, digits removal)
+!!Steps:
+1.Text cleaning (lowercasing, punctuation, digits removal)
 
-Custom stopwords removal
+2.Custom stopwords removal
 
-Stemming and Lemmatization applied separately
+3.Stemming and Lemmatization applied separately
 
-Analysis with:
+!!Analysis with:
 
 Vocabulary size comparison
 
@@ -15,21 +15,21 @@ Top 30 frequent words (Bar Plot)
 
 WordClouds
 
-Observations:
-Stemming reduces vocab but can chop too much
+!!Observations:
+1.Stemming reduces vocab but can chop too much
 
-Lemmatization keeps words meaningful
+2.Lemmatization keeps words meaningful
 
-Lemmatized text is better for tasks needing real understanding
+3.Lemmatized text is better for tasks needing real understanding
 
-Tech Stack:
-Python 
+!!Tech Stack:
+1.Python 
 
-NLTK
+2.NLTK
 
-Matplotlib
+3.Matplotlib
 
-Seaborn
+4.Seaborn
 
-WordCloud
+5.WordCloud
 
